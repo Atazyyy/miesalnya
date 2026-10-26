@@ -1,10 +1,10 @@
-# MieSalnyy — Menu Digital Resto (QR)
+# MieSalnya — Menu Digital Resto (QR)
 
 > **Kategori proyek: Menu Digital + QR untuk resto/kafe.**
 > Halaman menu yang dibuka dari QR di meja pelanggan: pilih level pedas,
 > susun pesanan, kirim ke kasir via WhatsApp.
 
-Menu digital untuk resto fiktif "MieSalnyy" — konsep mie pedas bertingkat
+Menu digital untuk resto fiktif "MieSalnya" — konsep mie pedas bertingkat
 (seperti mie level 1–5). Proyek ini adalah **concept demo** untuk portofolio
 jasa pembuatan web — seluruh merek, menu, dan cabang bersifat fiktif.
 

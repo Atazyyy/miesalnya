@@ -15,8 +15,8 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-5 py-14 md:px-8">
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-2">
-            <p className="font-display text-3xl font-extrabold">
-              MIE<span className="text-chili">SALNYY</span>
+            <p className="font-display text-3xl font-extrabold text-cream">
+              MIE<span className="text-chili">SALNYA</span>
             </p>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-bone/55">
               Mie level pedas buat yang berani. Datang, scan, pesan, nangis
@@ -47,9 +47,9 @@ export default function Footer() {
               Cabang Lain
             </p>
             <ul className="mt-4 space-y-2 text-sm text-bone/55">
-              <li>MieSalnyy Cihampelas</li>
-              <li>MieSalnyy Dipatiukur</li>
-              <li>MieSalnyy Buah Batu <span className="text-bone/30">(segera)</span></li>
+              <li>MieSalnya Cihampelas</li>
+              <li>MieSalnya Dipatiukur</li>
+              <li>MieSalnya Buah Batu <span className="text-bone/30">(segera)</span></li>
             </ul>
           </div>
 
@@ -74,7 +74,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-bone/10 pt-6 text-xs text-bone/35 sm:flex-row sm:items-center">
-          <p>© 2026 MieSalnyy. Seluruh merek dan konten bersifat fiktif.</p>
+          <p>© 2026 MieSalnya. Seluruh merek dan konten bersifat fiktif.</p>
           <p className="flex items-center gap-1.5">
             Concept demo — dibuat oleh{" "}
             <a

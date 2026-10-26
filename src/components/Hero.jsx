@@ -22,7 +22,7 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.1 }}
           className="mt-5 font-display text-6xl leading-none font-extrabold text-cream md:text-8xl"
         >
-          MIE <span className="text-chili">SALNYY</span>
+          MIE <span className="text-chili">SALNYA</span>
         </motion.h1>
         <motion.div
           initial={{ opacity: 0, scale: 0.8 }}

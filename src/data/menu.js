@@ -7,7 +7,7 @@ export const CATEGORIES = ["Mie Level", "Dimsum", "Minuman", "Topping"];
 export const MENU = [
   {
     id: "m1",
-    name: "Mie Salnyy Original",
+    name: "Mie Salnya Original",
     category: "Mie Level",
     price: 10000,
     levels: [1, 2, 3, 4, 5],
@@ -15,7 +15,7 @@ export const MENU = [
   },
   {
     id: "m2",
-    name: "Mie Salnyy Ceker Mercon",
+    name: "Mie Salnya Ceker Mercon",
     category: "Mie Level",
     price: 14000,
     levels: [3, 4, 5],
@@ -23,7 +23,7 @@ export const MENU = [
   },
   {
     id: "m3",
-    name: "Mie Salnyy Seafood",
+    name: "Mie Salnya Seafood",
     category: "Mie Level",
     price: 15000,
     levels: [1, 2, 3, 4],
@@ -31,7 +31,7 @@ export const MENU = [
   },
   {
     id: "m4",
-    name: "Mie Salnyy Pangsit Ayam",
+    name: "Mie Salnya Pangsit Ayam",
     category: "Mie Level",
     price: 13000,
     levels: [1, 2, 3],

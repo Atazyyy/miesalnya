@@ -20,8 +20,8 @@ export default function Navbar({ cartCount, onOpenCart }) {
       }`}
     >
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3.5 md:px-8">
-        <a href="#" className="font-display text-2xl font-extrabold">
-          MIE<span className="text-chili">SALNYY</span>
+        <a href="#" className="font-display text-2xl font-extrabold text-cream">
+          MIE<span className="text-chili">SALNYA</span>
         </a>
         <button
           onClick={onOpenCart}

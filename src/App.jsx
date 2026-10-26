@@ -47,7 +47,7 @@ export default function App() {
         href={callWaiter}
         target="_blank"
         rel="noreferrer"
-        aria-label="Chat WhatsApp MieSalnyy"
+        aria-label="Chat WhatsApp MieSalnya"
         className="fixed bottom-6 right-6 z-40 flex h-12 w-12 items-center justify-center rounded-full bg-[#25d366] text-white shadow-xl shadow-black/30 transition-transform hover:scale-110"
       >
         <svg viewBox="0 0 24 24" fill="currentColor" className="h-6 w-6">

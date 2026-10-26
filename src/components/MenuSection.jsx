@@ -7,14 +7,14 @@ import { CATEGORIES, MENU, rupiah } from "../data/menu";
 function LevelChips({ item, selected, onSelect }) {
   if (item.levels.length === 1 && item.levels[0] === 0) {
     return (
-      <span className="inline-flex items-center gap-1 rounded-full bg-sky-50 px-2.5 py-1 text-[11px] font-bold text-sky-600">
+      <span className="inline-flex w-fit items-center gap-1 rounded-full bg-char/5 px-2.5 py-1 text-[11px] font-bold text-char/60">
         ❄ Non Pedas
       </span>
     );
   }
   return (
     <div className="flex flex-wrap items-center gap-1.5">
-      <span className="text-[11px] font-bold text-bone/40">LEVEL:</span>
+      <span className="text-[11px] font-bold text-char/45">LEVEL:</span>
       {item.levels.map((lv) => (
         <button
           key={lv}
